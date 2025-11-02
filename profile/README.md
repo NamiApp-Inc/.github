@@ -1,6 +1,6 @@
 # Naami
 
-Naami is an open‑source, privacy‑preserving decentralized expense tracking system with cryptographic verifiability. It combines end‑to‑end encryption, encrypted event sourcing, and on‑chain commitments on Solana to make collaborative finance practical without trusting centralized servers.
+Naami is a privacy‑preserving decentralized expense tracking system with cryptographic verifiability. It combines end‑to‑end encryption, encrypted event sourcing, and on‑chain commitments on Solana to make collaborative finance practical.
 
 - Whitepaper PDF (in this repo): [naami-whitepaper.pdf](https://raw.githubusercontent.com/NamiApp-Inc/public/main/naami-whitepaper.pdf
 )
